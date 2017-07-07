@@ -1,4 +1,6 @@
 ## TOC 
+1. Installation
+2. First project 
 
 ## 1. Installation
 
