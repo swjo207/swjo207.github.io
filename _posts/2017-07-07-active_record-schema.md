@@ -87,6 +87,7 @@ add_index(:accounts, [:branch_id, :party_id, :surname], order: {branch_id: :desc
 ```
 generates:
   > CREATE INDEX by_branch_desc_party ON accounts(branch_id DESC, party_id ASC, surname)
+  
   > Note: MySQL doesn't yet support index order (it accepts the syntax but ignores it).
 
   - Creating an index with a specific **method**
@@ -95,7 +96,9 @@ add_index(:developers, :name, using: 'btree')
 ```
 generates:
   > CREATE INDEX index_developers_on_name ON developers USING btree (name) -- PostgreSQL
+  
   > CREATE INDEX index_developers_on_name USING btree ON developers (name) -- MySQL
+  
   > Note: only supported by PostgreSQL and MySQL
 
   - Creating an index with a specific type
