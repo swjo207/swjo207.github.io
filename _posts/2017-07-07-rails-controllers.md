@@ -1,10 +1,9 @@
-
 ---
 layout: post
 title: "Rails: Controller"
 comments: true
 description: "Rails Controller"
-keywords: "rails, ruby, controller"
+keywords: "activerecord"
 ---
 
 
