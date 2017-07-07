@@ -35,7 +35,7 @@ end
 - 표현식 안에 create_table, add_index 등의 SchemaStatements를 사용할 수 있다. 
 
 ## ActiveRecord::ConnectionAdapters::SchemaStatements 메소드 
-- create_table 
+### create_table 
 
 ```
 # create_table() passes a TableDefinition object to the block.
@@ -56,12 +56,12 @@ create_table(:suppliers) do |t|
 end
 ```
 
-- :force & :cascade 
+### :force & :cascade 
   - 테이블 생성 시 존재하면, 삭제하고 생성함 
   - 의존성이 있는 테이블에도 함께 적용 
 
 
-- add_index
+### add_index
 
   - Creating a simple index
 
