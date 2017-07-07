@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Study: Rails - ActiveRecord Model"
+comments: true
+description: "Rails Model"
+keywords: "rails, ruby, activerecord, model"
+---
+
 # Models 
 
 ## TOC
