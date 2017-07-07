@@ -7,6 +7,8 @@ description: "Rails Controller"
 keywords: "rails, ruby, controller"
 ---
 
+
+
 ## 일반사항 
 ### Naming Convention
 - CamelCase 스타일로 클래스를 정의 
