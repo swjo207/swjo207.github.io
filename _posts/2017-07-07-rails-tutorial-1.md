@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Study: Rails 설치하기"
+title: "Rails Tutorial 1"
 comments: true
-description: "Rails 설치하는 법"
+description: "Rails 설치하"
 keywords: "ruby, rails"
 ---
 
