@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Study: Rails 설치하기"
+comments: true
+description: "Rails 설치하는 법"
+keywords: "ruby, rails"
+---
+
 ## TOC 
 1. Installation
   - 1.1 ruby installation
