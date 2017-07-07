@@ -1,5 +1,8 @@
 ## TOC 
 1. Installation
+  1.1 ruby installation
+  1.2 rails installation
+  1.3 mysql installation
 2. First project 
 
 ## 1. Installation
