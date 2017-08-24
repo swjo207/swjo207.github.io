@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Study: Rails-Controller"
+title: "Study: Rails| Controller"
 comments: true
 description: "Rails Controller"
 keywords: "activerecord"
