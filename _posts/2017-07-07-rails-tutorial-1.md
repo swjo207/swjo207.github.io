@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Study: Rails Tutorial 1"
+title: "Study: Rails| Tutorial 1"
 comments: true
 description: "Rails 설치하"
 keywords: "ruby, rails"
