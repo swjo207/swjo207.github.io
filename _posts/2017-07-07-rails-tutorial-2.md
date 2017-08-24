@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rails Tutorial 2"
+title: "Study: Rails Tutorial 2"
 comments: true
 description: "Rails Model"
 keywords: "rails, ruby, activerecord, model"
