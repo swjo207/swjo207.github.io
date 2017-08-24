@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rails: ActiveRecord::Schema"
+title: "Study: Rails - ActiveRecord::Schema"
 comments: true
 description: "ActiveRecord::Schema"
 keywords: "activerecord"
